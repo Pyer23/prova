@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/Pyer23/prova.svg?branch=main)](https://travis-ci.com/Pyer23/prova)
+[![Coverage Status](https://coveralls.io/repos/github/Pyer23/prova/badge.svg?branch=main)](https://coveralls.io/github/Pyer23/prova?branch=main)
